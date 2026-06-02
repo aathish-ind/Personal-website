@@ -1,8 +1,3 @@
-/* ══════════════════════════════════════════
-   AATHISH — AI & ML Engineer  |  main.js
-══════════════════════════════════════════ */
-
-// ── PARALLAX STARS (cursor follow) ──────────────────────────────────────────
 const starCanvas = document.getElementById('starCanvas');
 const sCtx       = starCanvas.getContext('2d');
 let sW, sH;
